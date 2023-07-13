@@ -426,7 +426,11 @@ button {
   cursor: pointer;
 }
 
-.customers-list-link:hover,
+.customers-list-link:hover {
+  border-color: var(--presed-state-color);
+  color: var(--presed-state-color);
+}
+
 .customers-list-link:focus {
   border-color: var(--presed-state-color);
   color: var(--presed-state-color);
