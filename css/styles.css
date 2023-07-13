@@ -426,8 +426,8 @@ button {
 }
 
 .customers-list-link:focus {
-  border-color: var(--presed-state-color);
-  color: var(--presed-state-color);
+  border-color: #404bbf;
+  color: #404bbf;
 }
 
 .customers-list-link {
