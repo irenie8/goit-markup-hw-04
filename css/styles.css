@@ -326,9 +326,6 @@ button {
   gap: 24px;
 }
 
-.team-list-photo {
-}
-
 .team-list-item {
   background-color: var(--primary-white-color);
   width: calc((100% - 24px * 3) / 4);
@@ -340,9 +337,6 @@ button {
 
 .team-member-container {
   padding: 32px 0;
-}
-
-.team-member-container:hover {
 }
 
 .team-list-name {
